@@ -53,4 +53,4 @@ We welcome contributions from anyone interested in improving DBChatty. Please co
 
 ## Contact Information
 - **Email**: rayenbenaziza1234@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile Link]
+- **LinkedIn**: [https://www.linkedin.com/in/rayen-ben-aziza-5a2886264/]
