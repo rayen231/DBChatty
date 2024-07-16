@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain_community
+docx2pdf
+deep_translator
+PyPDF2
+reportlab
+python-docx
+crewai
