@@ -4,7 +4,7 @@ from crewai import Agent, Task, Crew, Process
 def config():
     os.environ["OPENAI_API_BASE"] = 'https://api.groq.com/openai/v1'
     os.environ["OPENAI_MODEL_NAME"] = 'llama3-70b-8192'  # Adjust based on available model
-    os.environ["GROQ_API_KEY"] = 'your_api_key'  # Adjust based on your OpenAI API key
+    os.environ["OPENAI_API_KEY"] = 'your_api_key'  # Adjust based on your OpenAI API key
     GROQ_API_KEY = ""
 
 def chat(input, context):
